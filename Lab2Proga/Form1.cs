@@ -23,20 +23,19 @@ namespace Lab2Proga
                 return;
 
             MenuBulder menuBulder = new MenuBulder(openFileDialog1.FileName, this);
-
         }
 
-        public void Method1(object sender, EventArgs e)
+        public void FirstMethod(object sender, EventArgs e)
         {
-            MessageBox.Show("Вызван метод 'Method1'");
+            MessageBox.Show("Вызван метод 'FirstMethod'");
         }
-        public void Method2(object sender, EventArgs e)
+        public void SecondMethod(object sender, EventArgs e)
         {
-            MessageBox.Show("Вызван метод 'Method2'");
+            MessageBox.Show("Вызван метод 'SecondMethod'");
         }
-        public void Method3(object sender, EventArgs e)
+        public void ThirdMethod(object sender, EventArgs e)
         {
-            MessageBox.Show("Вызван метод 'Method3'");
+            MessageBox.Show("Вызван метод 'ThirdMethod'");
         }
     }
 }

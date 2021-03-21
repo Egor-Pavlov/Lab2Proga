@@ -1,7 +1,7 @@
 ﻿0 Кнопка1 0  
-1 Кноп_очка2 0 Method3
+1 Кноп_очка2 0 ThirdMethod
 1 кнопка 0  
-2 кнопка4 2 Method2
-1 кнопка 0 Method3
-0 Кнопка3 0 Method1
+2 кнопка4 2 SecondMethod
+1 кнопка 0 ThirdMethod
+0 Кнопка3 0 FirstMethod
 0 КнопкаЕще 1  
