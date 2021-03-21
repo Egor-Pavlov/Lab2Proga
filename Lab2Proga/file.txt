@@ -1,7 +1,6 @@
-﻿0 Кнопка1 0  
-1 Кноп_очка2 0 ThirdMethod
-1 кнопка 0  
-2 кнопка4 2 SecondMethod
-1 кнопка 0 ThirdMethod
-0 Кнопка3 0 FirstMethod
-0 КнопкаЕще 1  
+﻿0 Создать 0  
+1 Фигура 0 ThirdMethod
+1 Текст 0  
+1 Изображение 0 ThirdMethod
+0 Сохранить 0 FirstMethod
+0 Открыть 1  
