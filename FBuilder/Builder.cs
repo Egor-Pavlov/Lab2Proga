@@ -93,6 +93,9 @@ namespace FBuilder
                         i = Build(level + 1, control, i + 1);
 
                     }
+                }
+                if (i + 1 != Lines.Length)
+                {
                     if (Convert.ToInt32(Lines[i + 1].Split(' ')[0]) < level && level == Convert.ToInt32(str[0]))
                     {//выходим из рекурсии, уровень понижается так как спускаемся обратно по иерархии
                         level--;
